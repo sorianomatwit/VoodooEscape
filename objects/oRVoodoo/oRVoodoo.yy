@@ -1,0 +1,46 @@
+{
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "oRVoodoo",
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
+  ],
+  "managed": true,
+  "overriddenProperties": [
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"pMover","path":"objects/pMover/pMover.yy",},"propertyId":{"name":"char","path":"objects/pMover/pMover.yy",},"value":"chars.Rvoodoo",},
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"pMover","path":"objects/pMover/pMover.yy",},"propertyId":{"name":"jumpHeight","path":"objects/pMover/pMover.yy",},"value":"9",},
+  ],
+  "parent": {
+    "name": "Voodoo",
+    "path": "folders/Objects/Voodoo.yy",
+  },
+  "parentObjectId": {
+    "name": "pVoodoo",
+    "path": "objects/pVoodoo/pVoodoo.yy",
+  },
+  "persistent": false,
+  "physicsAngularDamping": 0.1,
+  "physicsDensity": 0.5,
+  "physicsFriction": 0.2,
+  "physicsGroup": 1,
+  "physicsKinematic": false,
+  "physicsLinearDamping": 0.1,
+  "physicsObject": false,
+  "physicsRestitution": 0.1,
+  "physicsSensor": false,
+  "physicsShape": 1,
+  "physicsShapePoints": [],
+  "physicsStartAwake": true,
+  "properties": [],
+  "solid": false,
+  "spriteId": {
+    "name": "sVoodooR",
+    "path": "sprites/sVoodooR/sVoodooR.yy",
+  },
+  "spriteMaskId": {
+    "name": "sVoodooR",
+    "path": "sprites/sVoodooR/sVoodooR.yy",
+  },
+  "visible": true,
+}

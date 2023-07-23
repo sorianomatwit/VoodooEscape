@@ -1,0 +1,2 @@
+
+oPlayer.active = true;

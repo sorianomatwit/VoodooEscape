@@ -1,0 +1,1 @@
+if(current_sound != -1)audio_stop_sound(current_sound);
